@@ -20,5 +20,5 @@ jobs:
           git config --local user.name "sheejoo"
           git remote set-url origin "https://github.com/sheejoo/AutoGreen2/"
           git pull --rebase
-          git commit --allow-empty -m "a commit a day keeps your girlfriend far away!"
+          git commit --allow-empty -m "a commit a day keeps your girlfriend far away!!~"
           git push
